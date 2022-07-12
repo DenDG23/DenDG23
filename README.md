@@ -12,7 +12,7 @@
 - 📫 How to reach me **dendg234@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://t.me/dendg234"><img width="50" height="50" src="https://cdn4.iconfinder.com/data/icons/education-finance/140/.svg-12-512.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
